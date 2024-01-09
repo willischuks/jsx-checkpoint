@@ -1,0 +1,38 @@
+.App{
+  font-family: barlow;
+  background-image: url(./Assets/1270178.jpg) ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center; 
+  
+}
+.text{
+  color: white;
+
+}
+.card{
+  margin-left: 25%;
+  margin-top: 04%;
+  margin-bottom: 5%;
+  
+  width: 50%;
+  align-items: center;
+  border-radius: 5%;
+}
+.title{
+  color: #036b90;
+  font-weight: lighter;
+  margin-left: 30%;
+}
+.list-group-flush{
+  color: brown;
+}
+.link{
+  text-decoration: none;
+  color:#036b90
+}
+.link:hover{
+  color:#2a4d61;
+  text-decoration: overline;
+}
+
